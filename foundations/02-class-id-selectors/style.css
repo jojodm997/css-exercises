@@ -1,0 +1,19 @@
+.pa {
+    font-family: Verdana, 'DeJavu Sans', sans-serif;
+    background-color: pink;
+}
+
+.adjusted-font-size {
+    font-size: 24px;
+}
+
+#blue {
+    font-size: 36px;
+    color:blue;
+}
+
+#green {
+    background-color:greenyellow;
+    font-weight: bold;
+    font-size:24px;
+}
